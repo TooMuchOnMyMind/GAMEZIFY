@@ -16,6 +16,8 @@ V1: Thursday, February 29, 2024
     BitLife
   
     Snow Rider 3D
+    
+    SuperHor
   
   Added Proxies:
 
