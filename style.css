@@ -19,6 +19,10 @@ body {
   100%   { transform: translate(0, -0px); }    
 
 }
+.floating:hover {
+  opacity: 0.9; /* Set the opacity to 0.5 when the mouse hovers over the element */
+}
+
 
 head {
   color: rgb(255, 255, 255);
@@ -39,6 +43,7 @@ p.outset {outline-style: outset;}
 .floating {
 color: white;
 font-family: Georgia, 'Times New Roman', Times, serif;
+object-fit: cover;
 }
 
 /* Add a black background color to the top navigation */
