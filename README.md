@@ -7,28 +7,28 @@ BETA:
 
 V1
 
-Added Backgrounds
+  Added Backgrounds
 
-Added Games:
+  Added Games:
 
-  Gopher Kart
+    Gopher Kart
   
-  BitLife
+    BitLife
   
-  Snow Rider 3D
+    Snow Rider 3D
   
-Added Proxies:
+  Added Proxies:
 
-  Nebula
+    Nebula
   
-  Rammerhead
+    Rammerhead
   
-  Windows Emulator
+    Windows Emulator
   
-Added Navigation bar:
+  Added Navigation bar:
 
-  Gamezify V1
+    Gamezify V1
   
-  Credits (Not Finished)
+    Credits (Not Finished)
   
 
