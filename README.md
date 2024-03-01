@@ -2,10 +2,10 @@
 The best game site this side of America :0
 
 # Updates:
-BETA:
+BETA: Thursday, February 28, 2024
 -Just published! In beta right now!
 
-V1
+V1: Thursday, February 29, 2024
 
   Added Backgrounds
 
