@@ -49,10 +49,10 @@ Then Make a new game in the "Games" Folder
 
 Add this script:
 
-<Title>GAME TITLE</Title>
-<center>
-    <embed src="GAME LINK" style="width:900px; height: 700px;">
-</center>
+    <Title>GAME TITLE</Title>
+    <center>
+       <embed src="GAME LINK" style="width:900px; height: 700px;">
+    </center>
 
 Done!
   
