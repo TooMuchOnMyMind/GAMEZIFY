@@ -73,8 +73,8 @@ p.outset {outline-style: outset;}
 }
 
 h1 {
-  color: rgb(255, 255, 255);
-  background-color: rgba(0, 0, 0, 0.874);
+  color: ;
+  background-color: rgb(0, 0, 0.1);
 }
 
 .footer {
