@@ -74,7 +74,8 @@ p.outset {outline-style: outset;}
 
 h1 {
   color: ;
-  background-color: rgb(0, 0, 0.1);
+  background-color: rgb(0, 0, 0);
+  opacity: 0.7;
 }
 
 .footer {
