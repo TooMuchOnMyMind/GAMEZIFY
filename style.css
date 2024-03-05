@@ -86,23 +86,3 @@ h1 {
   color: white;
   text-align: center;
 }
-
-
-#div-1 { 
-  overflow: hidden; 
-}
-
-/* other styling */
-div {
-  border: solid 5px black;
-  border-radius: 5px;
-  height: 700px; /* Increased height for the embed content */
-  width: 1000px; /* Increased width for the embed content */
-  margin: 20px auto; /* Center the div horizontally */
-}
-
-body {
-  background-color: #EAF0F6;
-  color: #2D3E50;
-  font-family: 'Arial';
-}
