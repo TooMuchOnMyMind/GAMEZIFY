@@ -17,7 +17,7 @@ V1: Thursday, February 29, 2024
   
     Snow Rider 3D
     
-    SuperHor
+    SuperHot
   
   Added Proxies:
 
@@ -32,7 +32,24 @@ V1: Thursday, February 29, 2024
     Gamezify V1
   
     Credits (Not Finished)
+    
+V2:
 
+  Added Games:
+  
+    Stack
+    
+    Minecraft
+    
+    CraftMine
+    
+    SmashKarts
+
+  Changed GAMEZIFY V1 Tab To: 
+    
+    Discord (Not Working)
+
+  Finished Credits Tab
 
 # How to add games
 
